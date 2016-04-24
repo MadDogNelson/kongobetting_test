@@ -1,0 +1,6 @@
+c:\users\nelson\documents\visual studio 2012\Projects\Emailer\Emailer\bin\Debug\Emailer.exe.config
+c:\users\nelson\documents\visual studio 2012\Projects\Emailer\Emailer\obj\Debug\Emailer.csprojResolveAssemblyReference.cache
+c:\users\nelson\documents\visual studio 2012\Projects\Emailer\Emailer\bin\Debug\Emailer.exe
+c:\users\nelson\documents\visual studio 2012\Projects\Emailer\Emailer\bin\Debug\Emailer.pdb
+c:\users\nelson\documents\visual studio 2012\Projects\Emailer\Emailer\obj\Debug\Emailer.exe
+c:\users\nelson\documents\visual studio 2012\Projects\Emailer\Emailer\obj\Debug\Emailer.pdb
